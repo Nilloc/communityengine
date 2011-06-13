@@ -17,4 +17,5 @@ group :test do
   gem 'omniauth', :git => 'https://github.com/intridea/omniauth.git'
   gem 'meta_search', :git => 'https://github.com/ernie/meta_search.git'
   gem 'simplecov'
+  gem 'sass'
 end
